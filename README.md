@@ -18,9 +18,9 @@ Atuo como **Suporte de TI** e sou apaixonado por tecnologia e aprendizado consta
 
 ### 📫 Contato
 
-- **Email:** nathan@email.com  
-- **LinkedIn:** [linkedin.com/in/nathanlopes](https://linkedin.com/in/seu-usuario)  
-- **GitHub:** [github.com/seu-usuario](https://github.com/seu-usuario)
+- **Email:** nathansilval13@gmail.com  
+- **LinkedIn:** [linkedin.com/in/nathanlopes]([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/nathan-l-337854278/))  
+
 
 ---
 
