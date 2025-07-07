@@ -1,4 +1,30 @@
-## Hi there 👋
+# 👨‍💻 Nathan Lopes
+
+Atuo como **Suporte de TI** e sou apaixonado por tecnologia e aprendizado constante. Fiz uma transição de carreira da **gastronomia para a área de tecnologia**, e atualmente estou cursando **Análise e Desenvolvimento de Sistemas**.
+
+🚀 Estou em jornada para me tornar **desenvolvedor**, focando em fortalecer meus conhecimentos em lógica de programação, desenvolvimento web e automações que otimizam o dia a dia do suporte técnico.
+
+---
+
+### 💼 Habilidades e Ferramentas
+
+- Suporte técnico N1 e helpdesk
+- PowerShell e scripts de automação
+- HTML e CSS básicos
+- Git e GitHub
+- Atendimento ao cliente e resolução de problemas
+
+---
+
+### 📫 Contato
+
+- **Email:** nathan@email.com  
+- **LinkedIn:** [linkedin.com/in/nathanlopes](https://linkedin.com/in/seu-usuario)  
+- **GitHub:** [github.com/seu-usuario](https://github.com/seu-usuario)
+
+---
+
+⭐ Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios e se conectar.
 
 <!--
 **nathansilval13/nathansilval13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
